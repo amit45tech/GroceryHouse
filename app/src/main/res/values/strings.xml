@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Grocery House</string>
+    <string name="map_key" translatable="false">AIzaSyD4XmtjD3SbrPpV7ah7e02i2EfvWAB1uhw</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_account">Account</string>
+
+</resources>
